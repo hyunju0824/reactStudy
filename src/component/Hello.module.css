@@ -1,0 +1,8 @@
+/* 컴퍼넌트에 특화된 css */
+/* 파일 맨 앞 이름은 보통 컴퍼넌트 이름과 같게 한다. */
+
+.box {
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+}

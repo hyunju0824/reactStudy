@@ -1,0 +1,7 @@
+/* 각 컴퍼넌트에 종속되는 게 아니라 헤드 부분에 들어가게 됨 -> 전 페이지에 모두 영향 미침 */
+
+/* .box {
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+} */
